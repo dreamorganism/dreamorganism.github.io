@@ -1,0 +1,9 @@
+zig-cache
+/resources
+doctest-*
+/public
+node_modules/
+build
+
+# TypeScript cache
+*.tsbuildinfo
