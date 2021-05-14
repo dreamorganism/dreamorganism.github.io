@@ -1,0 +1,10 @@
+[back-to-home]
+other = "← Back to the <b>Home</b> page"
+
+[back-to-parent]
+other = "← Back to the <b>{{ . }}</b> section"
+
+
+[menu-community]
+other = "Join Discord"
+

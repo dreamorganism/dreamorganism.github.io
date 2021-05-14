@@ -1,0 +1,30 @@
+version: '3'
+
+tasks:
+  default:
+    deps:
+    - dev
+
+  # Top level commands
+  dev:
+    cmds:
+    - hugo server --buildDrafts
+
+  build:
+    cmds:
+    - ^clean-public
+    - ^ts
+    - ^hugo
+
+  clean-public:
+    cmds:
+    - find public/ -mindepth 1 -delete
+
+  hugo:
+    cmds:
+    - hugo
+
+  ts:
+    cmds:
+    - yarn --cwd ts-assets-to-build clean
+    - ts-assets-to-build/node_modules/.bin/esbuild ts-assets-to-build/src/index.ts --minify --bundle --outfile=themes/dreamorganism-original/assets/js/flow.js

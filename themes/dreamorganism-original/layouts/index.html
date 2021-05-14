@@ -1,0 +1,33 @@
+{{ define "title" }}
+  {{ .Title }} 🍄
+{{ end }}
+
+{{ define "links" }}
+	{{ $style := resources.Get "css/home.css" | toCSS | minify | fingerprint }}
+	<link type="text/css" rel="stylesheet" href="{{ $style.Permalink }}">
+{{ end }}
+
+{{ define "main" }}
+
+{{ $js := resources.Get "js/flow.js" }}
+<div>
+  <div id="app"></div>
+  <script type="module" src="{{ $js.RelPermalink }}"></script>
+</div>
+
+
+{{ .Content }}
+
+<div class="container parent-link" style="display:flex; flex-direction: row; justify-content: space-around; margin-top: 20px;">
+	{{ if ne .Lang "en"}}
+    <!-- TODO -->
+		<a href="https://github.com/ziglang/www.ziglang.org/" class="external-link no-mobile" target="_blank" rel="noopener">
+		This translation has been contributed by the Dreamorganism community
+		</a>
+	{{ end }}
+</div>
+<div class="container" style="text-align: center; padding-top: 2em;">
+  <small><em>Illusion, Art, Magic</em></small>
+</div>
+{{ end }}
+

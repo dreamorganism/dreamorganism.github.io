@@ -1,0 +1,12 @@
+{{ $version := "master" }}
+{{ $lang := default "en" (.Get "lang") }}
+<div class="slogan alt-background">
+    <div class="container slogan-message">
+        <div style="max-width: 790px; margin: 10px 0;padding: 0 5px;">
+            {{ .Inner | markdownify }}
+        </div>
+        <div class="cta-buttons">
+             <a href="{{ ref . (dict "path" "learn/overview.md" "lang" $lang) }}" class="button main" style="margin-bottom: 5px;">{{ .Get "learn" }}</a>
+        </div>
+    </div>
+</div>

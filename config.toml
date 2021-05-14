@@ -1,0 +1,22 @@
+baseURL = "//dreamorganism.org/"
+languageCode = "en-us"
+title = "Dreamorganism organisation"
+theme = "dreamorganism-original"
+disableKinds = ["taxonomy", "term"]
+timeout = 1000000
+
+[params]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    weight = 1
