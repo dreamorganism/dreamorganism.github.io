@@ -12,13 +12,13 @@ tasks:
 
   build:
     cmds:
-    - ^clean-public
+    - ^clean
     - ^ts
     - ^hugo
 
-  clean-public:
+  clean:
     cmds:
-    - find public/ -mindepth 1 -delete
+    - find docs/ -mindepth 1 -delete
 
   hugo:
     cmds:

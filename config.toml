@@ -1,4 +1,5 @@
 baseURL = "//dreamorganism.org/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Dreamorganism organisation"
 theme = "dreamorganism-original"

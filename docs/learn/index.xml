@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn on Dreamorganism organisation</title>
+    <link>//dreamorganism.org/learn/</link>
+    <description>Recent content in Learn on Dreamorganism organisation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="//dreamorganism.org/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//dreamorganism.org/learn/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/resources/</guid>
+      <description>Reinventing Organizations The witness COllapse of civilization</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendations</title>
+      <link>//dreamorganism.org/learn/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/books/</guid>
+      <description>Books  Reinventing Organisations Systems Atomic habits The four agreements  </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>//dreamorganism.org/learn/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/overview/</guid>
+      <description>Introduction Dreamorganism is focused on experiments to build a human friendler world given the simple premise that we (as opposed to others) need to take responsibility for change, and that we can do things better together. What do we mean by human friendler, and what do we mean by better?
+Another way of putting &amp;ldquo;human friendlier&amp;rdquo; into words would be the removal of superfulous suffering in our societies.
+This overview is currently lacking in it&amp;rsquo;s entirety.</description>
+    </item>
+    
+    <item>
+      <title>Working together &amp; Governance</title>
+      <link>//dreamorganism.org/learn/governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/governance/</guid>
+      <description>Governance In building a new system of governance our design takes into consideration the ideas mentioned in our introductory overview . A super cheesey way of putting it is that the system should be one that is designed and run out of abundance and love, rather than fear and scarcity.
+In order to combat a majority of the problems that arise in thought, behavioural and social competance: We want to incentive education and growth of the individual.</description>
+    </item>
+    
+  </channel>
+</rss>
