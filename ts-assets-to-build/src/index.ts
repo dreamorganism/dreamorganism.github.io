@@ -11,7 +11,9 @@ import { sub2, ZERO2 } from "@thi.ng/vectors";
 // num curves (should be odd number)
 const NUMC = 25;
 // num particles
-const NUMP = 200;
+const NUMP = 25;
+
+const WIDTH = 800;
 
 interface Particle {
     curve: Cubic;
@@ -24,7 +26,7 @@ const makeCurve = (i: number) =>
         [0, i * 30],
         [100 - Math.abs(i) * 10, 0],
         [300, i * 6],
-        [600, i * 6],
+        [WIDTH, i * 6],
         { id: i }
     );
 
@@ -101,11 +103,11 @@ const app = () => {
     const particles = [...map(partial(makeParticle, curves), range(NUMP))];
     let t = 0;
     return () => {
-        updateCurves(curves, (t += 0.02));
+        updateCurves(curves, (t += 0.01));
         updateParticles(particles);
         const width = window.innerWidth;
-        const height = window.innerHeight;
-        const scale = width / 600;
+        const height = window.innerHeight - 175;
+        const scale = width / WIDTH;
         return [
             canvas,
             { width, height, __diff: false },

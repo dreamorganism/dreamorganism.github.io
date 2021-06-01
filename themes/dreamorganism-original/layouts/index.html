@@ -10,9 +10,9 @@
 {{ define "main" }}
 
 {{ $js := resources.Get "js/flow.js" }}
-<div>
-  <div id="app"></div>
+  <div id="app" ></div>
   <script type="module" src="{{ $js.RelPermalink }}"></script>
+  <button style="font-size:16px;z-index:9;position:relative;bottom:20px;left:50%"><a id="first-content" style="color:#bbb" href="#first-content">↯</a></button>
 </div>
 
 

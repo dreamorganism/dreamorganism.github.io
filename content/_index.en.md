@@ -7,7 +7,7 @@ Dreamorganism recognizes **robust social safety** as a key component to **empowe
 {{< /slogan >}}
 
 {{< flexrow class="container" style="padding: 20px 0; justify-content: space-between;" >}}
-{{% div class="features" tite="Features"%}}
+{{% div class="container" tite="Features"%}}
 
 # 🍄 Robust Social Safety
 
@@ -39,11 +39,6 @@ There are no fully isolated systems. Everything hangs together in a beautful web
 {{% /div %}}
 {{% /flexrow %}}
 {{% /div %}}
-
-{{< div class="codesample" >}}
-
-
-{{< /div >}}
 
 {{< /flexrow >}}
 
