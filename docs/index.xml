@@ -12,8 +12,8 @@
       <pubDate>Tue, 20 Oct 2020 16:29:51 +0200</pubDate>
       
       <guid>//dreamorganism.org/non-profit/</guid>
-      <description>Mission statement The mission of Dreamorganis is to help people to reach and develop full potentail within the societies that they exist in.
-Dreanorganism is a non-profit organisation based in Germany. Finances, meeting minutes, and other details are available to the public.</description>
+      <description>Mission statement The mission of Dreamorganism is to help people to reach and develop full potential within the societies that they exist in.
+Dreamorganism is a non-profit organisation based in Germany. Finances, meeting minutes, and other details will be available to the public once the legal work is done.</description>
     </item>
     
     <item>
@@ -23,6 +23,18 @@ Dreanorganism is a non-profit organisation based in Germany. Finances, meeting m
       
       <guid>//dreamorganism.org/learn/resources/</guid>
       <description>Reinventing Organizations The witness COllapse of civilization</description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>//dreamorganism.org/learn/projects/app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/projects/app/</guid>
+      <description>App Introduction Digital tools have completley changed the way we live.Motivation
+Motivation Design Goals Design Non-Goals Prototyping or Production? Design Concise Description An experiment on replacing traditional governments and businesses. A digital platform for human friendleier corporation aiming to incentive personal development and education. Value is represented abstractly. Potential candidate for integrating with project catalyst.
+If you are intereste
+ Design    UUID - A good name for a value An company that is a bridge to the existing laws and to be used to influence change.</description>
     </item>
     
     <item>
@@ -40,9 +52,29 @@ Dreanorganism is a non-profit organisation based in Germany. Finances, meeting m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//dreamorganism.org/learn/overview/</guid>
-      <description>Introduction Dreamorganism is focused on experiments to build a human friendler world given the simple premise that we (as opposed to others) need to take responsibility for change, and that we can do things better together. What do we mean by human friendler, and what do we mean by better?
-Another way of putting &amp;ldquo;human friendlier&amp;rdquo; into words would be the removal of superfulous suffering in our societies.
-This overview is currently lacking in it&amp;rsquo;s entirety.</description>
+      <description>Introduction The Dreamorganism project is focused on building a human friendlier world given the simple premise that we (as opposed to others) need to take responsibility for change, and that we can do things better together. What do I mean by human friendlier, and what do I mean by better? Perhaps those are questions for you to think about.
+This overview is currently lacking in its entirety. However, I hope it will provide an understanding of the hypothesis we have about the problems we perceive, and how we tend to go about improving things.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>//dreamorganism.org/learn/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/projects/</guid>
+      <description>Projects Our projects have a priority on self development and individual empowerment as a means to improving society.
+Get in touch if you want to join in the fun.
+ Transfiguration Nation An educational mentorship program. Besides specialized life coaching, we aim to enable qualified workers from all areas to gain skills in social work through mentoring. This work is to be supervised by a diverse, holistic support network. Traditionally, personal trainers, life/job coaches, communication experts, therapists, and social workers are used by those who have money, are interested in personal development or are defined as sick.</description>
+    </item>
+    
+    <item>
+      <title>Transfiguration Nation</title>
+      <link>//dreamorganism.org/learn/projects/transfiguration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/projects/transfiguration/</guid>
+      <description>Transfiguration Nation Community Transfiguration nation takes dr matos trinty of sociology, biology and psychogy approach to human health.
+We also use a 3 step model of the universe as our basis for understanding. We have a model of time and state, but before that we enter into the awarness of unawarness. We emphasis a multidicplianary approach for learning with an emphasis on direct experience and cognitive ability. Teaching the student to swing the sword, secondly the thoery bejind it so that one has vocabulary for communcation that allows teacher or student to communicate through verbal or written form.</description>
     </item>
     
     <item>
@@ -57,13 +89,22 @@ Available translations  Deutsch Português  </description>
     </item>
     
     <item>
+      <title>Video game Recommendations</title>
+      <link>//dreamorganism.org/learn/video-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dreamorganism.org/learn/video-games/</guid>
+      <description>Video Games  The witness - Perception, meaning and action  </description>
+    </item>
+    
+    <item>
       <title>Working together &amp; Governance</title>
       <link>//dreamorganism.org/learn/governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//dreamorganism.org/learn/governance/</guid>
-      <description>Governance In building a new system of governance our design takes into consideration the ideas mentioned in our introductory overview . A super cheesey way of putting it is that the system should be one that is designed and run out of abundance and love, rather than fear and scarcity.
-In order to combat a majority of the problems that arise in thought, behavioural and social competance: We want to incentive education and growth of the individual.</description>
+      <description>Governance Introduction We are building a new system of governance!
+In building a new system of governance, our design takes into consideration the ideas mentioned in our introductory overview . A super cheesy way of putting it is that the system should be one that is designed and run out of abundance and love, rather than fear and scarcity. Although that doesn&amp;rsquo;t fully capture the intent. One needs to take reality into considerations, abundance and scarcity, both sides, and the tendency to see or prefer only one.</description>
     </item>
     
   </channel>

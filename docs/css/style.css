@@ -227,6 +227,10 @@ h1:lang(ja), h2:lang(ja), h3:lang(ja), h4:lang(ja) {
   padding: 0 1em;
 }
 
+.project-message {
+  width: 75%;
+}
+
 @media (prefers-color-scheme:dark) {
   body {
     background-color: #111;
@@ -347,7 +351,6 @@ h1:lang(ja), h2:lang(ja), h3:lang(ja), h4:lang(ja) {
   ul {
     padding-left: 1em;
   }
-
 }
 
 

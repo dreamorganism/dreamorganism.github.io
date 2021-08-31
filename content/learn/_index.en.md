@@ -16,10 +16,14 @@ This section lists resources useful to go from knowing nothing about Dreamorgani
 
 - [Overview](overview/)  
 Here's an overview of the Philosophy behind Dreamorganism.
+- [Projects](projects/)
+Our current projects.
 - [Governance](governance/)  
 Our ideas on collaboration and governance.
 
 ## Resources
 
 - [Books](books/)
-A list of books for recommended reading.
+A list of recommended books.
+- [Video Games](video-games/)
+A list of recommended video games.

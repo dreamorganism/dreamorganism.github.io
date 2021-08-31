@@ -13,22 +13,22 @@ Dreamorganism recognizes **robust social safety** as a key component to **empowe
 
 Let's build safe havens for those who don't have them. Social connections, knowledge, real wealth! Prosperity is ours for the taking.
 
-On the hierachy of needs, one can take a position and argue from either end of the spectrum. From a universal standpoint self actualization would seem to be the most important, as without it, how could any of this exist? In a similar vain, I as an individual being, this collection of cells that has gathered and evolved throughout the millenia, only exist in an intertwined matter and harmony with all that is going on around me. The realization of the mutual interdependance of all "things" makes it clear that the chronic unconsious clutching to safety could be a by product of the requirment to conform to an unhealthy society in order to recieve acceptance.
+On the hierarchy of needs, one can take a position and argue from either end of the spectrum. From a universal standpoint, self actualization would seem to be the most important, as without it, how could any of this exist? In a similar vain, I as an individual being, this collection of cells that has gathered and evolved throughout the millennia, only exist in an intertwined manner and harmony with all that is going on around me. The realization of the mutual interdependence of all "things" makes it clear that the chronic unconscious clutching to safety could be a by product of the requirement to conform to an unhealthy society in order to receive acceptance.
 
 Acceptance of ourselves, others, and the universe.
 
 
 # 🍄 Respecting the Individual
 
-Due to the functioning of the brain it's extremely difficult to keep abstractions and their reifications apart.
+It appears to be extremely difficult to keep abstractions and their reifications apart.
 
-Systems are never built for their own sake. Systems need energy to run. A sub system that spends energy mainting or propinging itself up is going to require continued effort and energy from the outisde, energy from the individuals in the system.
+Systems are never built for their own sake. Systems need energy to run. A sub system that spends energy maintaing or propping itself up is going to require continued effort and energy from the outside, energy from the individuals in the system.
 
-Modifying any system in order to produce a result in the individual is by design manipulation,  Lets's default to repsectful communication and allowing for emergent behaviour of systems to occur.
+Modifying any system in order to produce a result in the individual is by design manipulation, lets default to respectful communication and allowing for emergent behaviour of systems to occur.
 
 # 🍄 Transforming Society
 
-There are no fully isolated systems. Everything hangs together in a beautful web. We want to be able to proivide support to ALL individuals.
+There are no fully isolated systems. Everything hangs together in a beautiful web. We want to be able to provide support to ALL individuals.
 
 
 {{% flexrow style="justify-content:center;" %}}
@@ -48,13 +48,13 @@ There are no fully isolated systems. Everything hangs together in a beautful web
 {{< flexrow class="container" style="justify-content: center;" >}}
 
 {{% div class="community-message" %}}
-# Dreamorganism aims to support a meritocratic conmunity of diverse individuals
+# Dreamorganism aims to support a meritocratic community of diverse individuals
 
 We are waiting for you.
 
 <div style="">
 <h1>
-	<a href="https://github.com/ziglang/zig/wiki/Community" class="button" style="display: inline;">Join Conversation on Discord</a>
+	<a href="https://discord.gg/T9gMv9SR" class="button" style="display: inline;">Join Conversation on Discord</a>
 </h1>
 </div>
 {{% /div %}}
