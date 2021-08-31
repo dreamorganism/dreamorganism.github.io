@@ -8,7 +8,7 @@ layout: single
 
 # Learn
 
-**Status**: Very much under construction. Please feel free to reach out to us with questions or feedback.
+**Status**: This section is very much under construction. Please feel free to reach out to us with questions or feedback.
 
 This section lists resources useful to go from knowing nothing about Dreamorganism up to understanding its philosophy. 
 
