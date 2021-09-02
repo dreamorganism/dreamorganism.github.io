@@ -41,7 +41,7 @@ Diese Workshop konzentriert sich auf die Vermittlung einer Strategie zur Verbess
 - **Datum**: 18.09.1991
 - **Uhrzeit**: 10:30 - 15:30. inklusive eine Stunde pause zum Çiğ Köfte essen um 12
 - **Kosten**: Spenden basis, zahl danach, Vorschlag €50 - €250
-- **Teilnehmer**: Max 16
+- **Teilnehmer**: Max 20
 - **Sprache**:  Deutsch
 - **Kontakt zur anmeldung**: mail@dreamorganism.org oder 015756030596
 {{% /div %}}
@@ -91,7 +91,6 @@ Ich konzentriere mich derzeit [darauf](../learn/overview/), neue Wege für die Z
 <img src="/tim.png" style="max-height: 200px">
 {{% /div %}}
 {{< /flexrow >}}
-
 
 {{% /div %}}
 
