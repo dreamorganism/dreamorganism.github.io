@@ -10,7 +10,7 @@ toc: false
 
 {{< flexrow class="container" style="justify-content: space-between;">}}
 {{% div style="width:40%" %}}
-<img src="/workshop-small.png" style="max-height: 300px">
+<img src="/workshop-small2.png" style="max-height: 300px">
 {{% /div %}}
 
 {{% div style="width:60%" %}}
@@ -18,18 +18,16 @@ toc: false
 
 **Hello!**
 
-An meinem Geburtstag 🎂 in diesem Jahr wünschte ich mir Durchsetzungskraft! Deswegen schenke ich euch die Möglichkeit an meine erste Workshop teil zu nehmen ☻!. 
+Am 18.09 feiere ich meinen 30. Geburtstag mit meinem ersten Workshop. Es würde mich sehr freuen, wenn du mitmachen würdest.
 
-Da das es meine erste ist, könnte es ein bisschen 💩 sein. Trotzdem, glaube ich daran, dass es gut klappen wird. Falls nicht! Einfach nichts spenden, kein Thema.
+Ich würde mich freuen, wenn du den Workshop wie jeden anderen, an dem du teilnehmen würden, betrachten würden. Nur dass es zufällig an meinem Geburtstag ist.
 
 Ich freue mich voll auf euch ♡
 
 Lernen durch Kognition, Wahrnehmung und Erfahrung.
 
-
 {{% /div %}}
 {{< /flexrow >}}
-
 
 
 {{% div %}}
