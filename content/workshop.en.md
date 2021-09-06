@@ -18,7 +18,9 @@ toc: false
 
 **Hello!**
 
-Am 18.09 feiere ich meinen 30. Geburtstag mit meinem ersten Workshop. Es würde mich sehr freuen, wenn du mitmachen würdest.
+Am 18.09 feiere ich meinen 30. Geburtstag mit meinem ersten Workshop.
+
+Wir können danach abhängen und zum See oder Wald gehen.
 
 Ich würde mich freuen, wenn du den Workshop wie jeden anderen, an dem du teilnehmen würden, betrachten würden. Nur dass es zufällig an meinem Geburtstag ist.
 
@@ -33,6 +35,28 @@ Lernen durch Kognition, Wahrnehmung und Erfahrung.
 {{% div %}}
 ## Worum geht es in diesem Workshop?
 Diese Workshop konzentriert sich auf die Vermittlung einer Strategie zur Verbesserung der Kommunikation!
+
+Wir werden oft in unser Leben verletzt, 
+Nun das ist voll in Ordnung,
+Wir müssen hinfallen, um eben zu lernen,
+Niemand von uns, ist prädestiniert, alleine zu sein,
+Nur durch ausprobieren, kommen wir weiter am ziel.
+Wir müssen reden und Verständnisse aufbauen,
+Gefühle und Gedanken wahrnehmen und bennen,
+Die dinge auszusprechen,
+Ich finde einen Weg zu mir Selbst, nur durch einen Weg zu dir,
+
+Ich bin fest überzeugt dass die Kommunikation die einzige Waffe ist, die wir haben, um den weg zu uns selbst und einander zu finden, und um eben in unser volles Potenzial zu wachsen. Nun das ist sehr schwer. In diesem Workshop werden wir zunächst einen Blick auf den häufigsten Fehler werfen, den ich sehe, nämlich Desillusionierung. Wie man es in sich selbst und anderen erkennt und wie man Strategien entwickelt, um durch Desillusionierung zu sehen und zu kommunizieren.
+
+### Mind Poke Technique!
+{{< flexrow class="container" style="justify-content: space-evenly;">}}
+{{% div style="width:30%" %}}
+<img src="/kakashi.png" style="max-height: 300px">
+{{% /div %}}
+{{% div style="width:40%" %}}
+<img src="/brain-explode.png" style="max-height: 300px">
+{{% /div %}}
+{{< /flexrow >}}
 
 ## Wichtige Infos
 - **Ort**: Bei mir! Schön intim - Köln Dunnwald
@@ -67,6 +91,9 @@ Dies ist **nicht** der Kurs für Sie, wenn Sie einfache oder schnelle Ergebnisse
 Violent Communication ist ein "Hat tilt" in Richtung "gewaltfreie Kommunikation", die mich dazu
  inspiriert hat, etwas über Kommunikation zu lernen. Violent Communication integriert zusätzlich Ideen 
 aus dem Osten wie "Ying und Yang ☯" und das [Oganische Modell des Universums](https://truthaparadox.wordpress.com/2009/12/15/three-models-of-the-universe/). Darüber hinaus ist das System stark von der Dreieinigkeit von Soziologie, Biologie und Psychologie geprägt.
+
+Ich bin überzeugt, dass die Einblicke, die ich in die Kommunikation gebracht habe, bei der Behandlung aller Arten von Traumata und psychischen Problemen nützlich sein werden. Wenn Sie jemanden kennen, der Referenzen für Akademiker hat und möglicherweise helfen kann, einige Forschungen einzurichten, lassen Sie es mich bitte wissen.
+
 {{% /div %}}
 
 
