@@ -36,15 +36,17 @@ Lernen durch Kognition, Wahrnehmung und Erfahrung.
 ## Worum geht es in diesem Workshop?
 Diese Workshop konzentriert sich auf die Vermittlung einer Strategie zur Verbesserung der Kommunikation!
 
-Wir werden oft in unser Leben verletzt, 
-Nun das ist voll in Ordnung,
-Wir müssen hinfallen, um eben zu lernen,
-Niemand von uns, ist prädestiniert, alleine zu sein,
-Nur durch ausprobieren, kommen wir weiter am ziel.
-Wir müssen reden und Verständnisse aufbauen,
-Gefühle und Gedanken wahrnehmen und bennen,
-Die dinge auszusprechen,
-Ich finde einen Weg zu mir Selbst, nur durch einen Weg zu dir,
+
+> <em>Wir werden oft in unser Leben verletzt, </br>
+Nun das ist voll in Ordnung,</br>
+Wir müssen hinfallen, um eben zu lernen,</br>
+Niemand von uns, ist prädestiniert, alleine zu sein,</br>
+Nur durch ausprobieren, kommen wir weiter am ziel.</br>
+Wir müssen reden und Verständnisse aufbauen,</br>
+Gefühle und Gedanken wahrnehmen und bennen,</br>
+Die dinge auszusprechen,</br>
+Ich finde einen Weg zu mir Selbst, nur durch einen Weg zu dir,</br>
+</em>
 
 Ich bin fest überzeugt dass die Kommunikation die einzige Waffe ist, die wir haben, um den weg zu uns selbst und einander zu finden, und um eben in unser volles Potenzial zu wachsen. Nun das ist sehr schwer. In diesem Workshop werden wir zunächst einen Blick auf den häufigsten Fehler werfen, den ich sehe, nämlich Desillusionierung. Wie man es in sich selbst und anderen erkennt und wie man Strategien entwickelt, um durch Desillusionierung zu sehen und zu kommunizieren.
 
@@ -62,7 +64,7 @@ Ich bin fest überzeugt dass die Kommunikation die einzige Waffe ist, die wir ha
 - **Ort**: Bei mir! Schön intim - Köln Dunnwald
 - **Datum**: 18.09.1991
 - **Uhrzeit**: 10:30 - 15:30. inklusive eine Stunde pause zum Çiğ Köfte essen um 12
-- **Kosten**: Spenden basis, zahl danach, Vorschlag €50 - €250
+- **Kosten**: Spenden basis
 - **Teilnehmer**: Max 20
 - **Sprache**:  Deutsch
 - **Kontakt zur anmeldung**: mail@dreamorganism.org oder 015756030596
@@ -81,16 +83,16 @@ Eigentlich jede Person aber... wenn einer der folgenden Punkte passen
 
 **und**
 
-- Sie sind bereit, in die Gegenwart zu investieren, dann ist "Violent Communication" der Kurs für Sie! 
+- Sie sind bereit, in die Gegenwart zu investieren, dann ist "Violent Communication" der Workshop für Sie! 
 
-Dies ist **nicht** der Kurs für Sie, wenn Sie einfache oder schnelle Ergebnisse erwarten oder **nur** eine gute Zeit haben wollen.
+Dies ist **nicht** der Workshop für Sie, wenn Sie einfache oder schnelle Ergebnisse erwarten oder **nur** eine gute Zeit haben wollen.
 {{% /div %}}
 
 {{% div %}}
 ## Was ist die Philosophie dahinter?
 Violent Communication ist ein "Hat tilt" in Richtung "gewaltfreie Kommunikation", die mich dazu
  inspiriert hat, etwas über Kommunikation zu lernen. Violent Communication integriert zusätzlich Ideen 
-aus dem Osten wie "Ying und Yang ☯" und das [Oganische Modell des Universums](https://truthaparadox.wordpress.com/2009/12/15/three-models-of-the-universe/). Darüber hinaus ist das System stark von der Dreieinigkeit von Soziologie, Biologie und Psychologie geprägt.
+aus dem Osten wie "Ying Yang ☯" und das ["Oganische Modell des Universums"](https://truthaparadox.wordpress.com/2009/12/15/three-models-of-the-universe/). Darüber hinaus ist das System stark von der Dreieinigkeit von Soziologie, Biologie und Psychologie geprägt.
 
 Ich bin überzeugt, dass die Einblicke, die ich in die Kommunikation gebracht habe, bei der Behandlung aller Arten von Traumata und psychischen Problemen nützlich sein werden. Wenn Sie jemanden kennen, der Referenzen für Akademiker hat und möglicherweise helfen kann, einige Forschungen einzurichten, lassen Sie es mich bitte wissen.
 
