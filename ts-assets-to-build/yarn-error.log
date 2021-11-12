@@ -1,8 +1,8 @@
 Arguments: 
-  /nix/store/y9f0pcpgxf5v3vf019yjrppwb91826y0-nodejs-14.16.0/bin/node /nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/bin/yarn install
+  /nix/store/y9f0pcpgxf5v3vf019yjrppwb91826y0-nodejs-14.16.0/bin/node /nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/bin/yarn start
 
 PATH: 
-  /nix/store/l3zvd3g9jwc7vq4jnfnz7xh7zvvplxn7-clang-wrapper-7.1.0/bin:/nix/store/94yzw5n7fxx8zy8xp4yq45pz4wdw74vw-clang-7.1.0/bin:/nix/store/5hcln5ydxnwhc9dbaf55sqkry7r29ncd-coreutils-8.32/bin:/nix/store/fgbkzkmzjp3q3b8p8rmf867xdsbyvjbn-cctools-binutils-darwin-wrapper-949.0.1/bin:/nix/store/s31f50385mj95q0ws54g2m3msxshvmkd-cctools-binutils-darwin-949.0.1/bin:/nix/store/y9f0pcpgxf5v3vf019yjrppwb91826y0-nodejs-14.16.0/bin:/nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/bin:/nix/store/i0kwpnnbmgrhg3p3d90wgsr43ky0hn6c-sass-3.7.4/bin:/nix/store/5hcln5ydxnwhc9dbaf55sqkry7r29ncd-coreutils-8.32/bin:/nix/store/wyfx47i37bzqny2c5mjpbsss5rzw9sb4-findutils-4.7.0/bin:/nix/store/35ggwcsfh3r025sp6z6yzrghyd40lw28-diffutils-3.7/bin:/nix/store/k0jin7qlhjgl6pdypnidzcg1gwgk1zhm-gnused-4.8/bin:/nix/store/w0cd23xv69kvrwbvyl5hbsx5q5fpf6if-gnugrep-3.6/bin:/nix/store/h5a3swvrlm878i6qrhnv77in6y7pmyyk-gawk-5.1.0/bin:/nix/store/0zaqix1m67ab18da3rrg582fakzay0j6-gnutar-1.34/bin:/nix/store/jbxngsmvp45x19nyrp2ffijx5nh0xm8s-gzip-1.10/bin:/nix/store/chjc0klrlrj81w491wn5fpn60ivb6dmc-bzip2-1.0.6.0.2-bin/bin:/nix/store/x1j8srrnl97ahjpajggh9vpnzp9hrvjb-gnumake-4.3/bin:/nix/store/74shlfgb18717ixjlpivpxd7iqcyhyn5-bash-4.4-p23/bin:/nix/store/d46s718n1zazbm72aa36zin5dwmfys4l-patch-2.7.6/bin:/nix/store/aik85pqs765f8y2p31x0px6fl3grf5kz-xz-5.2.5-bin/bin:/Users/tim/.nix-profile/bin:/run/current-system/sw/bin:/nix/var/nix/profiles/default/bin:/usr/local/bin:/usr/bin:/usr/sbin:/bin:/sbin:/nix/store/zssib5x3kq24j3950p83nfmwqzg57qv4-neovim-ruby-env/bin
+  /nix/store/l3zvd3g9jwc7vq4jnfnz7xh7zvvplxn7-clang-wrapper-7.1.0/bin:/nix/store/94yzw5n7fxx8zy8xp4yq45pz4wdw74vw-clang-7.1.0/bin:/nix/store/5hcln5ydxnwhc9dbaf55sqkry7r29ncd-coreutils-8.32/bin:/nix/store/fgbkzkmzjp3q3b8p8rmf867xdsbyvjbn-cctools-binutils-darwin-wrapper-949.0.1/bin:/nix/store/s31f50385mj95q0ws54g2m3msxshvmkd-cctools-binutils-darwin-949.0.1/bin:/nix/store/y9f0pcpgxf5v3vf019yjrppwb91826y0-nodejs-14.16.0/bin:/nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/bin:/nix/store/i0kwpnnbmgrhg3p3d90wgsr43ky0hn6c-sass-3.7.4/bin:/nix/store/5hcln5ydxnwhc9dbaf55sqkry7r29ncd-coreutils-8.32/bin:/nix/store/wyfx47i37bzqny2c5mjpbsss5rzw9sb4-findutils-4.7.0/bin:/nix/store/35ggwcsfh3r025sp6z6yzrghyd40lw28-diffutils-3.7/bin:/nix/store/k0jin7qlhjgl6pdypnidzcg1gwgk1zhm-gnused-4.8/bin:/nix/store/w0cd23xv69kvrwbvyl5hbsx5q5fpf6if-gnugrep-3.6/bin:/nix/store/h5a3swvrlm878i6qrhnv77in6y7pmyyk-gawk-5.1.0/bin:/nix/store/0zaqix1m67ab18da3rrg582fakzay0j6-gnutar-1.34/bin:/nix/store/jbxngsmvp45x19nyrp2ffijx5nh0xm8s-gzip-1.10/bin:/nix/store/chjc0klrlrj81w491wn5fpn60ivb6dmc-bzip2-1.0.6.0.2-bin/bin:/nix/store/x1j8srrnl97ahjpajggh9vpnzp9hrvjb-gnumake-4.3/bin:/nix/store/74shlfgb18717ixjlpivpxd7iqcyhyn5-bash-4.4-p23/bin:/nix/store/d46s718n1zazbm72aa36zin5dwmfys4l-patch-2.7.6/bin:/nix/store/aik85pqs765f8y2p31x0px6fl3grf5kz-xz-5.2.5-bin/bin:/Users/tim/.nix-profile/bin:/run/current-system/sw/bin:/nix/var/nix/profiles/default/bin:/usr/local/bin:/usr/bin:/usr/sbin:/bin:/sbin:/nix/store/9bilb6javikmxscscab17q77h9wjqavr-neovim-ruby-env/bin
 
 Yarn version: 
   1.22.10
@@ -14,12 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  SyntaxError: /Users/tim/programming/dreamorganism/website/assets/dreamorganism/package.json: Unexpected token , in JSON at position 540
-      at JSON.parse (<anonymous>)
-      at /nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/libexec/yarn/lib/cli.js:1625:59
-      at Generator.next (<anonymous>)
-      at step (/nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/libexec/yarn/lib/cli.js:310:30)
-      at /nix/store/kimpqx052crm4ri94a129sfnqnd0ld6p-yarn-1.22.10/libexec/yarn/lib/cli.js:321:13
+  Error: ENOSPC: no space left on device, mkdir '/var/folders/5n/8y81np5d7v1dc3mjn6nnmzpm0000gn/T/yarn--1636714869776-0.22098534552301619'
 
 npm manifest: 
   {
@@ -37,7 +32,6 @@ npm manifest:
       "dependencies": {
           "@thi.ng/compose": "latest",
           "@thi.ng/geom": "latest",
-          "@thi.ng/geom-subdiv-curve",
           "@thi.ng/hdom": "latest",
           "@thi.ng/hdom-canvas": "latest",
           "@thi.ng/math": "latest",

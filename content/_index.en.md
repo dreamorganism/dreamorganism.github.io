@@ -54,7 +54,7 @@ We are waiting for you.
 
 <div style="">
 <h1>
-	<a href="https://discord.gg/T9gMv9SR" class="button" style="display: inline;">Join Conversation on Discord</a>
+	<a href="https://discord.gg/9EhM89e4jq" class="button" style="display: inline;">Join Conversation on Discord</a>
 </h1>
 </div>
 {{% /div %}}
