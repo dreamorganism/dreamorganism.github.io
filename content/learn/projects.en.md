@@ -6,7 +6,7 @@ toc: false
 
 ## Projects
 
-Our projects have a priority on self development and individual empowerment as a means to improving society.
+This section is currently being updated.
 
-Get in touch if you want to join in the fun.
+{{% voronoi %}}
 

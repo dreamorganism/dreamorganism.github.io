@@ -1,9 +1,11 @@
-zig-cache
 /resources
 doctest-*
 /public
 node_modules/
 build
+.DS_Store
+._.DS_Store
 
 # TypeScript cache
 *.tsbuildinfo
+*.hugo_build.lock

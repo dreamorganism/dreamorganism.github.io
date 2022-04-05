@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-	<meta name="generator" content="Hugo 0.82.0" />
+	<meta name="generator" content="Hugo 0.92.2" />
 		<meta charset="utf-8">
 		<title>
 		
@@ -87,9 +87,40 @@
 <div id="content" role="main">
 
 
-  <div id="app" ></div>
+
+
+<style>
+.containerdiv { float: left; position: relative; background: #000}
+.overlayThing {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  cursor: pointer;
+  width:100px;
+}
+.tbutton {
+  background: transparent;
+  border: none;
+  width:250px;
+  z-index:9;
+  position:relative;
+  left:80%
+}
+</style>
+
+
+<div class="containerdiv">
+    <div class="overlayThing" onclick="location.href='https://thi.ng';">
+      <strong style="color:white;"> made with: </strong>
+      <object type="image/svg+xml"  data="/logo-anim-dark.svg"></object>
+    </div>
+
+<div id="app" >
   <script type="module" src="/js/flow.js"></script>
-  <button style="font-size:16px;z-index:9;position:relative;bottom:20px;left:50%"><a id="first-content" style="color:#bbb" href="#first-content">↯</a></button>
+  <button style="font-size:16px;z-index:9;position:relative;bottom:20px;left:50%">
+    <a id="first-content" style="color:#bbb" href="#first-content">↯</a>
+  </button>
+  </div>
 </div>
 
 
@@ -166,5 +197,7 @@
         </div><div class="container" style="text-align: center; padding-top: 2em;">
   <small></small>
 </div>
+
+<script defer language="javascript" type="text/javascript"  src="/js/voroni.js"></script>
 </body>
 </html>

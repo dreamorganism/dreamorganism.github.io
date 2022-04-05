@@ -75,27 +75,3 @@ Dreamorganism is a non-profit corporation. We would like to be able to offer pai
 	<a href="non-profit/" class="button" style="display:inline;">Learn More</a>
 </h1>
 {{% /div %}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

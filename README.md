@@ -7,8 +7,7 @@ Website for [Dreamorganism](https://dreamorganism.org)
 ### Requirements
 - hugo
 - go-task
-- yarn (if modifying the flow animation)
-
+- yarn (if modifying the flow or voronoi animation)
 
 ### Running the development server
 Run `hugo serve`. 
@@ -20,6 +19,12 @@ After Hugo is launched you can use it to preview in realtime changes to the cont
 To include changes in the website run `task ts`
 
 Read the readme in the folder ts-assets-to-build for starting dev server.
+
+## Hugo stuff
+
+https://gohugo.io/templates/base/
+the baseof template is the root template
+single.html is used for all other pages
 
 
 ## Writing a translation

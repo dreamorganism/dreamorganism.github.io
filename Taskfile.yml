@@ -11,10 +11,9 @@ tasks:
     - hugo server --buildDrafts
 
   build:
-    cmds:
-    - ^clean
-    - ^ts
-    - ^hugo
+    - task: clean
+    - task: ts
+    - task: hugo
 
   clean:
     cmds:
@@ -26,5 +25,7 @@ tasks:
 
   ts:
     cmds:
-    - yarn --cwd ts-assets-to-build clean
-    - ts-assets-to-build/node_modules/.bin/esbuild ts-assets-to-build/src/index.ts --minify --bundle --outfile=themes/dreamorganism-original/assets/js/flow.js
+    - yarn --cwd ts-assets-to-build/flow clean
+    - ts-assets-to-build/flow/node_modules/.bin/esbuild ts-assets-to-build/flow/src/index.ts --minify --bundle --outfile=themes/dreamorganism-original/assets/js/flow.js
+    - yarn --cwd ts-assets-to-build/voronoi clean
+    - ts-assets-to-build/voronoi/node_modules/.bin/esbuild ts-assets-to-build/voronoi/src/index.ts --minify --bundle --outfile=themes/dreamorganism-original/assets/js/voronoi.js

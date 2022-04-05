@@ -1,0 +1,4 @@
+{{ $js := resources.Get "js/voronoi.js" }}
+<div id="app" style="width:1000px;">
+  <script type="module" src="{{ $js.RelPermalink }}"></script>
+</div>
