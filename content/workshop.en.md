@@ -51,7 +51,7 @@ We will be exploring
 - intuition, trust and emotion
 - expansion of perception
 - curiosity and learning
-- nutrition & fasting
+- nutritional behaviour cues
 - verbal and non verbal communication
 - reading between the lines
 - acceleration of long term healing and growth
@@ -61,10 +61,10 @@ We will be exploring
 Let's grow into our potential together.
 
 ## Important Info
-- **Location**: Lagos
+- **Location**: Lagos, privat space. exact location will be provided after registration
 - **Date**: This saturday - 09/04/2022
-- **Time**: 10:30 - 12:30. Open end with Lunch provided after.
-- **Cost**: Donation basis, recommend
+- **Time**: 10:00 - 12:30. Open end after. bring some snacks if you would like, some food will be provided.
+- **Cost**: Donation basis, 10-20 € sliding scale
 - **Participants**: Max 10
 - **Language**:  English
 - **Contact for registration**: +4915752624909
@@ -76,28 +76,32 @@ Let's grow into our potential together.
 This course is suitable for newbies and professionals. Also if you
 
 - are feeling stuck, lost or lonley 
-- are sometimes unsure how to behave, or what to eat or drink
+- are sometimes unsure how to behave according to your authentic self
+- are unsure how to fuel your body properly to thrive
 - are not happy with the state of your personal or business relationships
 - are unable to support or help a friend or those around you
 - want to improve your health and joy of life
 
 **and**
 
-- are ready to invest in yourself, than "Hack my Health" is the workshop for you! 
+- are ready to invest in yourself
+
+than don't miss our workshop, and get some insights into how you can #Hack.My.Health!
 
 {{% /div %}}
 
-## Who are you?
+## Who are we? - Your facilitators
+
 ### Timothy Eichler
 {{< flexrow class="container" style="justify-content: space-between;">}}
 {{% div style="width:80%" %}}
 
-Three years ago I came into contact with [Non violent communication](https://www.cnvc.org/about) and [Crucial Conversations](https://cruciallearning.com/crucial-conversations-for-dialogue/), this inspired me to learn about emotions and invest in my communnication skill.
+Three years ago, Timothy came into contact with [Non violent communication](https://www.cnvc.org/about) and [Crucial Conversations](https://cruciallearning.com/crucial-conversations-for-dialogue/), this inspired him to learn about emotions and invest in his communnication skills.
 
-- I suffered with depression for many years, this gave me experience in techniques of psychology and therapy.
-- As a software developer and engineer I learned to understand complex systems
-- Through [Alan Watts](https://alanwatts.org/life-of-alan-watts/), I learned about spirituality and zen
-- Through sports i learned about the soul, mind body connection.
+- He suffered with depression for many years, this gave him experience in techniques of psychology and therapy.
+- As a software developer and engineer, he learned to understand complex systems.
+- Through [Alan Watts](https://alanwatts.org/life-of-alan-watts/), he learned about spirituality and zen.
+- Through sports, he learned about the mind body soul connection.
 
 I am currently focusing [on](../learn/overview/) developing new technology to improve the [collaboration of humans](https://cardano.org/).
 {{% /div %}}
@@ -110,7 +114,7 @@ I am currently focusing [on](../learn/overview/) developing new technology to im
 {{< flexrow class="container" style="justify-content: space-between;">}}
 {{% div style="width:80%" %}}
 
-Steffen Wehning holds a bachelor in Biochemistry and is currently completing his masters in exercise science and coaching. He helps support people to make changes for their long term health and performance. He has a special focus on nutrition, longevity & the Mind-Body-connection. Furthermore, he sees himself as a "medium" translating cutting-edge research results into action in related areas such as Nutrition, Psychology, cross-sectional ares, i.e. clinical psycho-neuro-immunology (cPNI), and the effect of diet, habit- and/or lifestyle-changes as a treatment for chronic stress and diseases.
+Steffen is a trained Biochemist and is currently completing his Masters in Exercise Science & Coaching. His mission is to support people to make changes for their long-term health and performance. Thereby, he puts special focus on the areas of lifestyle design via nutrition, longevity protocols & improving the mind-body connection. Furthermore, he sees himself as a “medium” translating cutting-edge research results into action in related areas such as Nutrition, Psychology, cross-sectional areas, i.e. clinical psycho-neuro-immunology (cPNI), and the effect of diet, habit- and/or lifestyle-changes as a treatment for chronic stress and diseases.
 {{% /div %}}
 {{% div style="width:20%" %}}
 <img src="/steve.png" style="max-height: 200px">
