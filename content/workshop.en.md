@@ -60,7 +60,7 @@ We will be exploring
 
 Let's grow into our potential together.
 
-## Wichtige Infos
+## Important Info
 - **Location**: Lagos
 - **Date**: This saturday - 09/04/2022
 - **Time**: 10:30 - 12:30. Open end with Lunch provided after.
