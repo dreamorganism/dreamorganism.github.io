@@ -1,7 +1,7 @@
 
 ---
-title: "Violent Communication"
-mobile_menu_title: "Communication"
+title: "Hack my health"
+mobile_menu_title: "Hack my Health"
 toc: false
 ---
 
@@ -10,7 +10,7 @@ toc: false
 
 {{< flexrow class="container" style="justify-content: space-between;">}}
 {{% div style="width:40%" %}}
-<img src="/workshop-small2.png" style="max-height: 300px">
+<img src="/hackmyhealth.png" style="max-height: 300px">
 {{% /div %}}
 
 {{% div style="width:60%" %}}
@@ -18,104 +18,102 @@ toc: false
 
 **Hello!**
 
-Am 18.09 feiere ich meinen 30. Geburtstag mit meinem ersten Workshop.
+Come join us for a few hours this saturday to explore health & communication.
 
-Wir können danach abhängen und zum See oder Wald gehen.
+We aim to impart a heightend awarness and ability to grow, learn, connect and heal. 
 
-Ich würde mich freuen, wenn du den Workshop wie jeden anderen, an dem du teilnehmen würden, betrachten würden. Nur dass es zufällig an meinem Geburtstag ist.
+We will be doing this through a series of individual, partner and group exercises.
 
-Ich freue mich voll auf euch ♡
-
-Lernen durch Kognition, Wahrnehmung und Erfahrung.
-
-{{% /div %}}
-{{< /flexrow >}}
-
-
-{{% div %}}
-## Worum geht es in diesem Workshop?
-Diese Workshop konzentriert sich auf die Vermittlung einer Strategie zur Verbesserung der Kommunikation!
-
-
-> <em>Wir werden oft in unser Leben verletzt, </br>
-Nun das ist voll in Ordnung,</br>
-Wir müssen hinfallen, um eben zu lernen,</br>
-Niemand von uns, ist prädestiniert, alleine zu sein,</br>
-Nur durch ausprobieren, kommen wir weiter am ziel.</br>
-Wir müssen reden und Verständnisse aufbauen,</br>
-Gefühle und Gedanken wahrnehmen und bennen,</br>
-Die dinge auszusprechen,</br>
-Ich finde einen Weg zu mir Selbst, nur durch einen Weg zu dir,</br>
+> <em>We will often be hurt in our lives, </br>
+and that is totally ok,</br>
+we have to fall, in order to learn,</br>
+None of us are predestined to be alone,</br>
+Only through experimenting will we come closer to our goals,</br>
+We have to talk and build understanding,</br>
+To notice and name feelings and thoughts,</br>
+To speak things out,</br>
+I find myself, through my way of understanding you. </br>
 </em>
 
-Ich bin fest überzeugt dass die Kommunikation die einzige Waffe ist, die wir haben, um den weg zu uns selbst und einander zu finden, und um eben in unser volles Potenzial zu wachsen. Nun das ist sehr schwer. In diesem Workshop werden wir zunächst einen Blick auf den häufigsten Fehler werfen, den ich sehe, nämlich Desillusionierung. Wie man es in sich selbst und anderen erkennt und wie man Strategien entwickelt, um durch Desillusionierung zu sehen und zu kommunizieren.
 
-### Mind Poke Technique!
-{{< flexrow class="container" style="justify-content: space-evenly;">}}
-{{% div style="width:30%" %}}
-<img src="/kakashi.png" style="max-height: 300px">
-{{% /div %}}
-{{% div style="width:40%" %}}
-<img src="/brain-explode.png" style="max-height: 300px">
 {{% /div %}}
 {{< /flexrow >}}
 
+
+{{% div %}}
+## What is this workshop about?
+
+This workshop focuses on offering a room for learning about health, connection, communication and learning. The exercises are designed to allow you to become aware of how the human system in general works, and how you in particular work.
+
+We will be exploring
+- connection and belonging
+- mind body soul connection
+- intuition, trust and emotion
+- expansion of perception
+- curiosity and learning
+- nutrition & fasting
+- verbal and non verbal communication
+- reading between the lines
+- acceleration of long term healing and growth
+- refine your own individual path and toolking for growth
+
+
+Let's grow into our potential together.
+
 ## Wichtige Infos
-- **Ort**: Bei mir! Schön intim - Köln Dunnwald
-- **Datum**: 18.09.1991
-- **Uhrzeit**: 10:30 - 15:30. inklusive eine Stunde pause zum Çiğ Köfte essen um 12
-- **Kosten**: Spenden basis
-- **Teilnehmer**: Max 20
-- **Sprache**:  Deutsch
-- **Kontakt zur anmeldung**: mail@dreamorganism.org oder 015756030596
-{{% /div %}}
-
-
-{{% div %}}
-## Für wem ist das?
-
-Eigentlich jede Person aber... wenn einer der folgenden Punkte passen
-
-- Sie sind sich manchmal unsicher, wie Sie sich verhalten sollen
-- Ihre persönlichen oder beruflichen Beziehungen sind nicht so, wie Sie es sich wünschen würden
-- Sie sind sich nicht sicher, wie Sie einem Freund oder sich selbst helfen können
-- Sie Ihre Kommunikation verbessern möchten
-
-**und**
-
-- Sie sind bereit, in die Gegenwart zu investieren, dann ist "Violent Communication" der Workshop für Sie! 
-
-Dies ist **nicht** der Workshop für Sie, wenn Sie einfache oder schnelle Ergebnisse erwarten oder **nur** eine gute Zeit haben wollen.
+- **Location**: Lagos
+- **Date**: This saturday - 09/04/2022
+- **Time**: 10:30 - 12:30. Open end with Lunch provided after.
+- **Cost**: Donation basis, recommend
+- **Participants**: Max 10
+- **Language**:  English
+- **Contact for registration**: +4915752624909
 {{% /div %}}
 
 {{% div %}}
-## Was ist die Philosophie dahinter?
-Violent Communication ist ein "Hat tilt" in Richtung "gewaltfreie Kommunikation", die mich dazu
- inspiriert hat, etwas über Kommunikation zu lernen. Violent Communication integriert zusätzlich Ideen 
-aus dem Osten wie "Ying Yang ☯" und das ["Oganische Modell des Universums"](https://truthaparadox.wordpress.com/2009/12/15/three-models-of-the-universe/). Darüber hinaus ist das System stark von der Dreieinigkeit von Soziologie, Biologie und Psychologie geprägt.
+## Who is this course recommended for?
 
-Ich bin überzeugt, dass die Einblicke, die ich in die Kommunikation gebracht habe, bei der Behandlung aller Arten von Traumata und psychischen Problemen nützlich sein werden. Wenn Sie jemanden kennen, der Referenzen für Akademiker hat und möglicherweise helfen kann, einige Forschungen einzurichten, lassen Sie es mich bitte wissen.
+This course is suitable for newbies and professionals. Also if you
+
+- are feeling stuck, lost or lonley 
+- are sometimes unsure how to behave, or what to eat or drink
+- are not happy with the state of your personal or business relationships
+- are unable to support or help a friend or those around you
+- want to improve your health and joy of life
+
+**and**
+
+- are ready to invest in yourself, than "Hack my Health" is the workshop for you! 
 
 {{% /div %}}
 
-
-
-## Wer sind Sie?
+## Who are you?
+### Timothy Eichler
 {{< flexrow class="container" style="justify-content: space-between;">}}
 {{% div style="width:80%" %}}
 
-Durch den Kontakt mit [Gewaltfreie Kommunikation](https://www.cnvc.org/about) und [Crucial Conversations](https://cruciallearning.com/crucial-conversations-for-dialogue/) vor drei Jahren,
-wurde ich inspiriert in meine Kommunikation zu investerien.
+Three years ago I came into contact with [Non violent communication](https://www.cnvc.org/about) and [Crucial Conversations](https://cruciallearning.com/crucial-conversations-for-dialogue/), this inspired me to learn about emotions and invest in my communnication skill.
 
-- Als [Softwareentwickler](https://www.thoughtworks.com/about-us) habe ich gelernt, komplexe Systeme zu verstehen.
-- Als [Zen-Schüler](https://alanwatts.org/life-of-alan-watts/) habe ich gelernt, über das zu sprechen, worüber nicht gesprochen werden kann.
-- Als [Depressive](https://www.kliniken.de/krankenhaus/tagesklinik-alteburger-strasse-koeln-2811K.html) erlernte ich die Techniken der Psychologie.
-- Als [Sportler](https://www.noch3.de/) habe ich die Verbindung von Geist, Körper und Seele kennengelernt.
+- I suffered with depression for many years, this gave me experience in techniques of psychology and therapy.
+- As a software developer and engineer I learned to understand complex systems
+- Through [Alan Watts](https://alanwatts.org/life-of-alan-watts/), I learned about spirituality and zen
+- Through sports i learned about the soul, mind body connection.
 
-Ich konzentriere mich derzeit [darauf](../learn/overview/), neue Wege für die Zusammenarbeit von Menschen zu [entwickeln](https://cardano.org/).
+I am currently focusing [on](../learn/overview/) developing new technology to improve the [collaboration of humans](https://cardano.org/).
 {{% /div %}}
 {{% div style="width:20%" %}}
 <img src="/tim.png" style="max-height: 200px">
+{{% /div %}}
+{{< /flexrow >}}
+
+### Steve Wehning
+{{< flexrow class="container" style="justify-content: space-between;">}}
+{{% div style="width:80%" %}}
+
+Steffen Wehning holds a bachelor in Biochemistry and is currently completing his masters in exercise science and coaching. He helps support people to make changes for their long term health and performance. He has a special focus on nutrition, longevity & the Mind-Body-connection. Furthermore, he sees himself as a "medium" translating cutting-edge research results into action in related areas such as Nutrition, Psychology, cross-sectional ares, i.e. clinical psycho-neuro-immunology (cPNI), and the effect of diet, habit- and/or lifestyle-changes as a treatment for chronic stress and diseases.
+{{% /div %}}
+{{% div style="width:20%" %}}
+<img src="/steve.png" style="max-height: 200px">
 {{% /div %}}
 {{< /flexrow >}}
 
