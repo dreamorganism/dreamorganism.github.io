@@ -12,12 +12,18 @@ tasks:
 
   build:
     - task: clean
+    - task: cname
     - task: ts
     - task: hugo
+
+  cname:
+    cmds:
+      - echo "dreamorganism.org" > docs/CNAME
 
   clean:
     cmds:
     - find docs/ -mindepth 1 -delete
+
 
   hugo:
     cmds:
